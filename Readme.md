@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Орлов](https://up.htmlacademy.ru/javascript/16/user/19166).
-* Наставник: `Неизвестно`.
+* Наставник: `Дмитрий Батманов`.
 
 ---
 
